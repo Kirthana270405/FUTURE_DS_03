@@ -1,0 +1,151 @@
+ID,Event,Department,Rating,Feedback
+1,Workshop,CE,4,"It was good, interactive and useful."
+2,Workshop,CSE,5,"Excellent sessions, very informative and engaging."
+3,Tech Fest,EEE,5,"Had a wonderful experience, everything was perfect."
+4,Tech Fest,CSE,3,"The event was average, can be improved."
+5,Seminar,CE,3,The event was fine but could be more exciting.
+6,Sports Meet,CE,4,"Nice event, had fun and learned something new."
+7,Seminar,CSE,4,"It was good, interactive and useful."
+8,Tech Fest,MBA,3,"The event was average, can be improved."
+9,Tech Fest,MBA,2,"Not engaging, got boring after a while."
+10,Tech Fest,MBA,1,Technical issues ruined the entire session.
+11,Cultural Fest,ECE,1,Technical issues ruined the entire session.
+12,Workshop,MBA,2,"Expected more from the event, disappointing."
+13,Workshop,ECE,5,"Excellent sessions, very informative and engaging."
+14,Cultural Fest,ME,5,"Great energy and well managed, highly satisfied."
+15,Workshop,MBA,4,"Good experience overall, just a few areas to improve."
+16,Tech Fest,CSE,2,"Expected more from the event, disappointing."
+17,Tech Fest,CE,3,"The event was average, can be improved."
+18,Workshop,EEE,3,"Neutral experience, nothing special."
+19,Workshop,ME,5,"Had a wonderful experience, everything was perfect."
+20,Cultural Fest,ME,3,"Neutral experience, nothing special."
+21,Workshop,ECE,3,"Decent effort, but lacked engagement."
+22,Workshop,MBA,2,Could have been more interactive.
+23,Seminar,EEE,5,Loved it! Best event I attended this year.
+24,Seminar,ECE,5,"Had a wonderful experience, everything was perfect."
+25,Cultural Fest,CSE,5,Loved it! Best event I attended this year.
+26,Seminar,CE,2,The content was not well prepared.
+27,Cultural Fest,ME,4,"It was good, interactive and useful."
+28,Tech Fest,ECE,1,Totally irrelevant and waste of time.
+29,Seminar,EEE,2,"Expected more from the event, disappointing."
+30,Seminar,ME,3,The event was fine but could be more exciting.
+31,Sports Meet,CSE,3,"Neutral experience, nothing special."
+32,Workshop,MBA,3,"It was okay, not too great but not bad."
+33,Workshop,CE,2,Could have been more interactive.
+34,Workshop,EEE,1,The event was unorganized and chaotic.
+35,Sports Meet,ECE,1,The event was unorganized and chaotic.
+36,Cultural Fest,ME,2,The content was not well prepared.
+37,Tech Fest,ECE,2,"Not engaging, got boring after a while."
+38,Sports Meet,ECE,1,Technical issues ruined the entire session.
+39,Seminar,ME,4,"It was good, interactive and useful."
+40,Sports Meet,CE,2,Poor time management affected the flow.
+41,Workshop,MBA,1,The event was unorganized and chaotic.
+42,Sports Meet,EEE,3,The event was fine but could be more exciting.
+43,Sports Meet,MBA,1,Totally irrelevant and waste of time.
+44,Workshop,ECE,3,"Neutral experience, nothing special."
+45,Seminar,CE,1,"Very poor experience, not worth attending."
+46,Workshop,MBA,3,"The event was average, can be improved."
+47,Cultural Fest,ME,4,"Good experience overall, just a few areas to improve."
+48,Tech Fest,CSE,1,Totally irrelevant and waste of time.
+49,Tech Fest,MBA,1,Technical issues ruined the entire session.
+50,Tech Fest,CE,4,Satisfied with the sessions and arrangements.
+51,Seminar,EEE,4,"Good experience overall, just a few areas to improve."
+52,Seminar,ME,2,"Not engaging, got boring after a while."
+53,Sports Meet,CE,3,"It was okay, not too great but not bad."
+54,Sports Meet,ECE,2,Poor time management affected the flow.
+55,Workshop,ECE,5,"Had a wonderful experience, everything was perfect."
+56,Seminar,CSE,1,Totally irrelevant and waste of time.
+57,Seminar,ECE,1,Technical issues ruined the entire session.
+58,Workshop,CE,2,"Not engaging, got boring after a while."
+59,Sports Meet,CE,4,"It was good, interactive and useful."
+60,Sports Meet,CE,5,Loved it! Best event I attended this year.
+61,Cultural Fest,ME,4,"Enjoyed the event, well coordinated."
+62,Workshop,EEE,1,"Very poor experience, not worth attending."
+63,Seminar,MBA,5,"Excellent sessions, very informative and engaging."
+64,Sports Meet,ME,3,"Decent effort, but lacked engagement."
+65,Seminar,EEE,3,The event was fine but could be more exciting.
+66,Tech Fest,CSE,5,"Excellent sessions, very informative and engaging."
+67,Seminar,CE,3,The event was fine but could be more exciting.
+68,Cultural Fest,EEE,4,"Nice event, had fun and learned something new."
+69,Cultural Fest,MBA,4,"It was good, interactive and useful."
+70,Cultural Fest,ECE,2,"Expected more from the event, disappointing."
+71,Tech Fest,ECE,2,"Expected more from the event, disappointing."
+72,Seminar,ME,2,The content was not well prepared.
+73,Cultural Fest,CSE,5,Loved it! Best event I attended this year.
+74,Seminar,ME,5,Loved it! Best event I attended this year.
+75,Seminar,ME,3,The event was fine but could be more exciting.
+76,Workshop,ME,1,Technical issues ruined the entire session.
+77,Cultural Fest,ME,4,Satisfied with the sessions and arrangements.
+78,Seminar,ME,2,The content was not well prepared.
+79,Seminar,CE,3,"Decent effort, but lacked engagement."
+80,Cultural Fest,CE,1,The event was unorganized and chaotic.
+81,Seminar,CSE,5,"Amazing event, very well organized!"
+82,Cultural Fest,MBA,4,Satisfied with the sessions and arrangements.
+83,Sports Meet,EEE,3,"Decent effort, but lacked engagement."
+84,Seminar,ME,3,"Neutral experience, nothing special."
+85,Cultural Fest,CSE,4,"It was good, interactive and useful."
+86,Tech Fest,CSE,2,Could have been more interactive.
+87,Sports Meet,ECE,1,"Did not enjoy at all, very dissatisfied."
+88,Cultural Fest,CE,2,"Not engaging, got boring after a while."
+89,Tech Fest,CE,4,Satisfied with the sessions and arrangements.
+90,Seminar,EEE,5,"Great energy and well managed, highly satisfied."
+91,Workshop,EEE,5,Loved it! Best event I attended this year.
+92,Cultural Fest,EEE,4,Satisfied with the sessions and arrangements.
+93,Seminar,EEE,5,"Excellent sessions, very informative and engaging."
+94,Workshop,CE,4,"Enjoyed the event, well coordinated."
+95,Seminar,MBA,4,"Good experience overall, just a few areas to improve."
+96,Sports Meet,ME,2,The content was not well prepared.
+97,Workshop,CE,2,Could have been more interactive.
+98,Cultural Fest,MBA,5,"Amazing event, very well organized!"
+99,Workshop,CSE,4,Satisfied with the sessions and arrangements.
+100,Workshop,MBA,4,"It was good, interactive and useful."
+101,Seminar,ECE,3,"It was okay, not too great but not bad."
+102,Seminar,ME,5,"Amazing event, very well organized!"
+103,Cultural Fest,MBA,2,The content was not well prepared.
+104,Workshop,EEE,1,Totally irrelevant and waste of time.
+105,Cultural Fest,ECE,3,The event was fine but could be more exciting.
+106,Workshop,CSE,5,"Had a wonderful experience, everything was perfect."
+107,Tech Fest,MBA,4,"It was good, interactive and useful."
+108,Seminar,EEE,1,"Did not enjoy at all, very dissatisfied."
+109,Sports Meet,EEE,3,"It was okay, not too great but not bad."
+110,Tech Fest,CSE,4,"Nice event, had fun and learned something new."
+111,Tech Fest,ME,1,"Very poor experience, not worth attending."
+112,Tech Fest,ECE,1,Totally irrelevant and waste of time.
+113,Seminar,CSE,3,"Neutral experience, nothing special."
+114,Workshop,CSE,3,"Neutral experience, nothing special."
+115,Cultural Fest,CE,3,"Decent effort, but lacked engagement."
+116,Seminar,ME,5,"Excellent sessions, very informative and engaging."
+117,Seminar,MBA,3,"The event was average, can be improved."
+118,Sports Meet,CE,4,"Enjoyed the event, well coordinated."
+119,Seminar,MBA,2,"Not engaging, got boring after a while."
+120,Tech Fest,CE,4,"Good experience overall, just a few areas to improve."
+121,Seminar,CSE,5,"Excellent sessions, very informative and engaging."
+122,Tech Fest,CE,4,"It was good, interactive and useful."
+123,Tech Fest,ECE,3,"The event was average, can be improved."
+124,Tech Fest,CSE,1,Technical issues ruined the entire session.
+125,Workshop,ECE,3,"It was okay, not too great but not bad."
+126,Seminar,MBA,3,"The event was average, can be improved."
+127,Cultural Fest,EEE,4,"Good experience overall, just a few areas to improve."
+128,Sports Meet,CSE,4,Satisfied with the sessions and arrangements.
+129,Cultural Fest,CE,2,The content was not well prepared.
+130,Workshop,ME,4,"Nice event, had fun and learned something new."
+131,Workshop,CE,2,The content was not well prepared.
+132,Tech Fest,ME,4,"Good experience overall, just a few areas to improve."
+133,Cultural Fest,MBA,5,"Amazing event, very well organized!"
+134,Workshop,ECE,2,Poor time management affected the flow.
+135,Workshop,ECE,1,The event was unorganized and chaotic.
+136,Sports Meet,CSE,3,"The event was average, can be improved."
+137,Workshop,MBA,1,Totally irrelevant and waste of time.
+138,Tech Fest,ECE,2,"Expected more from the event, disappointing."
+139,Sports Meet,MBA,4,"Enjoyed the event, well coordinated."
+140,Cultural Fest,CSE,4,"Good experience overall, just a few areas to improve."
+141,Seminar,CSE,5,"Great energy and well managed, highly satisfied."
+142,Workshop,CE,1,Totally irrelevant and waste of time.
+143,Tech Fest,EEE,2,Poor time management affected the flow.
+144,Seminar,ME,2,Poor time management affected the flow.
+145,Cultural Fest,CSE,3,"Neutral experience, nothing special."
+146,Cultural Fest,ME,4,Satisfied with the sessions and arrangements.
+147,Workshop,CSE,1,Technical issues ruined the entire session.
+148,Workshop,CSE,1,Totally irrelevant and waste of time.
+149,Seminar,CE,2,The content was not well prepared.
+150,Cultural Fest,EEE,1,Technical issues ruined the entire session.
